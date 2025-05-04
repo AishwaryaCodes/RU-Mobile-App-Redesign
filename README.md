@@ -37,20 +37,24 @@ This project is a UI/UX redesign of the Roosevelt University Mobile App, develop
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### 🏠 Home & Student ID
-<img src="screenshots/Home.png" width="250"/>
-<img src="screenshots/Student ID.png" width="250"/>
+![Home Screen](./Home.png)
 
-### 📂 Menu & International Center
-<img src="screenshots/Menu.png" width="250"/>
-<img src="screenshots/International Center.png" width="250"/>
+![Student ID](./Student-ID.png)
 
-### 📑 Visa Guidelines & Appointments
-<img src="screenshots/Visa Guidelines.png" width="250"/>
-<img src="screenshots/Schedule Appointment.png" width="250"/>
-<img src="screenshots/Book slot with Advisor.png" width="250"/>
+### 📁 Menu & International Center
+![Menu](./Menu.png)
+
+![International Center](./International-Center.png)
+
+### 📝 Visa Guidelines & Appointments
+![Visa Guidelines](./Visa-Guidelines.png)
+
+![Schedule Appointment](./Schedule-Appointment.png)
+
+![Book Slot](./Book-Slot.png)
 
 
 
