@@ -1,6 +1,6 @@
-# 📱 Roosevelt University Mobile App – Re-Designed Prototype
+#  Roosevelt University Mobile App – Re-Designed Prototype
 
-This project is a UI/UX redesign of the Roosevelt University Mobile App, developed as part of **Human-Computer Interaction Assignment 6**. The redesign focuses on improving usability, accessibility, and support for international students using Figma.
+This project is a UI/UX redesign of the Roosevelt University Mobile App, The redesign focuses on improving usability, accessibility, and support for international students using Figma.
 
 ---
 
@@ -13,13 +13,13 @@ This project is a UI/UX redesign of the Roosevelt University Mobile App, develop
 
 ---
 
-## ✨ Features Added
+##  Features Added
 
 - **Digital Student ID** with QR code
 - **Visa & OPT Guidelines** for international students
 - **Advisor Appointment Booking System**
 - **Housing Help Section**
-- Navigation and layout improvements
+- **Navigation** and layout improvements
 
 ---
 
@@ -37,19 +37,19 @@ This project is a UI/UX redesign of the Roosevelt University Mobile App, develop
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-### 🏠 Home & Student ID
+###  Home & Student ID
 ![Home Screen](./Home.png)
 
 ![Student ID](./Student-ID.png)
 
-### 📁 Menu & International Center
+###  Menu & International Center
 ![Menu](./Menu.png)
 
 ![International Center](./International-Center.png)
 
-### 📝 Visa Guidelines & Appointments
+###  Visa Guidelines & Appointments
 ![Visa Guidelines](./Visa-Guidelines.png)
 
 ![Schedule Appointment](./Schedule-Appointment.png)
@@ -60,9 +60,4 @@ This project is a UI/UX redesign of the Roosevelt University Mobile App, develop
 
 
 ---
-
-## 👩‍🎓 Author
-
-**Aishwarya Kundur**  
-Roosevelt University  
-Master’s in Computer Science – 2025  
+akundur17@gmail.com
